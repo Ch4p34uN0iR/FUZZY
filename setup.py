@@ -4,7 +4,6 @@
 import os
 
 def main():
-	os.system('mkdir /usr/bin/FUZZY')
 	os.system('mv FUZZY /usr/bin/FUZZY/')
 	file = open("fuzzy","w")
 	file.write("#!/bin/bash\n")
