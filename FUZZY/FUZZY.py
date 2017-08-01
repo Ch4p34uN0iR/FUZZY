@@ -19,7 +19,7 @@ def banner():
 	print "--[ Version 3.6.1\n"
 	print "\033[1;92m[*] Loading Plugins\033[1;m"
 	time.sleep(0.7)
-	print "\033[1;92m[*] Initializing Fuzzbunch v3.5.1\033[1;m"
+	print "\033[1;92m[*] Initializing Fuzzbunch v3.6.1\033[1;m"
 	time.sleep(0.7)
 	print "\033[1;92m[*] Adding Global Varibles\033[1;m"
 	time.sleep(0.7)
@@ -59,7 +59,7 @@ def banner():
 *******************************************************************************
 \033[1;31m[+]\033[1;m Exploit Framework Load successful! Use FORCE to continue
 \033[1;31m[+}\033[1;m CORE loaded with status code 0x0031337
-\033[1;31m[+}\033[1;m VERSION : \033[1;33m2.0\033[1;m
+\033[1;31m[+}\033[1;m VERSION : \033[1;33m3.6.1\033[1;m
 	\033[1;m"""
 	return fuzzy() #/* File check if implants exist if not ask*/
 
