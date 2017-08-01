@@ -8,7 +8,7 @@ def main():
 	file = open("fuzzy","w")
 	file.write("#!/bin/bash\n")
 	file.write("#AUTHOR: EITENNE\n")
-	file.write("python FUZZY/FUZZY.py")
+	file.write("python /usr/bin/FUZZY/FUZZY.py")
 	file.close()
 	os.system('mv fuzzy /usr/bin/fuzzy')
 	os.system('chmod +x /usr/bin/fuzzy')
