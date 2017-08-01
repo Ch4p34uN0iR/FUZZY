@@ -1,6 +1,7 @@
 # FUZZY
 Fuzzy.py is a fuzzbunch wrapper but its made to look like the original fb.py
-<h1>RUN:</h1><pre>python FUZZY.py</pre>
+<h1>INSTALL:</h1><pre>sudo python setup.py</pre>
+<h1>RUN:</h1><pre>fuzzy</pre>
 <h1>Updates:</h1><pre>
 * more functions
 * port scanner
